@@ -1,0 +1,18 @@
+{
+  "name": "semanajsexpert",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": "https://github.com/ErickWendel/jsexpert02-skeleton-ew",
+  "author": "Adan de Oliveira <anonymu616@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "socket.io": "3.0.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
