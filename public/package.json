@@ -4,6 +4,7 @@
   "description": "",
   "main": "app.js",
   "dependencies": {
+    "heroku": "^7.47.11",
     "http-server": "0.12.3"
   },
   "devDependencies": {},

@@ -10,6 +10,7 @@
   "author": "Adan de Oliveira <anonymu616@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "heroku": "^7.47.11",
     "socket.io": "3.0.5"
   },
   "devDependencies": {
